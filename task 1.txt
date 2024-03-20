@@ -1,0 +1,12 @@
+differences-between-document-and-window-object 
+
+   Window run Is Window engine 
+   document is collect dom tree and Cssom tree files collect than send Java Script engine
+   The window object in JavaScript stands for the current web page that is being seen in a browser window.
+   The window object is the global object in the web browser environment.
+   The document object is  html, aspx, php, or other document that will be loaded into the browser. 
+   window is make one object for var than save its save window storage 
+   window is make one object for let than save its  not save window storage 
+   let is bettre than var 
+
+
